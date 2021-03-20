@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 4.199999999999999,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:ThaniumiteOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Thaniumite"
+    },
+    "name": "thaniumite_ore_smelting",
+    "namespace": "mod"
+  }
+}

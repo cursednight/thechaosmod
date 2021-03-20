@@ -1,0 +1,9 @@
+{
+  "_fv": 15,
+  "_type": "function",
+  "definition": {
+    "code": "/give @p minecraft:birch_log 64",
+    "name": "moo",
+    "namespace": "mod"
+  }
+}

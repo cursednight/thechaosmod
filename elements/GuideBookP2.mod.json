@@ -1,0 +1,227 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "back",
+          "onClick": {
+            "name": "P1pro"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "back",
+          "x": 127,
+          "y": 179
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "next",
+          "onClick": {
+            "name": "P3pro"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "next",
+          "x": 252,
+          "y": 178
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aeonforgerecipe.png",
+          "use1Xscale": false,
+          "name": "aeonforgerecipe.png",
+          "x": 127,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "aeon forge",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "aeon forge",
+          "x": 125,
+          "y": 39
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aetherlighterrecipe.png",
+          "use1Xscale": false,
+          "name": "aetherlighterrecipe.png",
+          "x": 181,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "aether lighter",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "aether lighter",
+          "x": 186,
+          "y": 40
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "breadmakerrecipe.png",
+          "use1Xscale": false,
+          "name": "breadmakerrecipe.png",
+          "x": 131,
+          "y": 103
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bulletasd6recipe.png",
+          "use1Xscale": false,
+          "name": "bulletasd6recipe.png",
+          "x": 189,
+          "y": 103
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bulletrecipe.png",
+          "use1Xscale": false,
+          "name": "bulletrecipe.png",
+          "x": 270,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "bullet",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "bullet",
+          "x": 267,
+          "y": 85
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "bulletasd",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "bulletasd",
+          "x": 186,
+          "y": 85
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "bread maker",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "bread maker",
+          "x": 129,
+          "y": 87
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cagedobsidianrecipe.png",
+          "use1Xscale": false,
+          "name": "cagedobsidianrecipe.png",
+          "x": 131,
+          "y": 149
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "despawnerrecipe.png",
+          "use1Xscale": false,
+          "name": "despawnerrecipe.png",
+          "x": 186,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dynamiterecipe.png",
+          "use1Xscale": false,
+          "name": "dynamiterecipe.png",
+          "x": 271,
+          "y": 146
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "cage obsidian",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "cage obsidian",
+          "x": 125,
+          "y": 140
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "despawner",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "despawner",
+          "x": 193,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "dynamite",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "dynamite",
+          "x": 254,
+          "y": 135
+        }
+      }
+    ]
+  }
+}

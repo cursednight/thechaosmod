@@ -1,0 +1,35 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rainbow_sword_1",
+    "customModelName": "Normal",
+    "name": "Crit Bringer",
+    "specialInfo": [
+      "this sword has been reforged from mountains of admant and has many enchantments"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 100.0,
+    "enchantability": 111,
+    "damageVsEntity": 120000.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "CritBringerItemIsCraftedsmelted"
+    },
+    "onEntityHitWith": {
+      "name": "CritBringerLivingEntityIsHitWithTool"
+    }
+  }
+}

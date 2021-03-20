@@ -1,0 +1,12 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_chaos_mod:netherium_ore"
+  },
+  "result": {
+    "item": "the_chaos_mod:netherium"
+  }
+}

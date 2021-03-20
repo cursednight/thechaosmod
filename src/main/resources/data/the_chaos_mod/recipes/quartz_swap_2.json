@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:quartz",
+    "count": 1
+  }
+}

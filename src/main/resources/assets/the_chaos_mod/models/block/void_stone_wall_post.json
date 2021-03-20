@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "the_chaos_mod:blocks/oil",
+    "particle": "the_chaos_mod:blocks/oil"
+  }
+}

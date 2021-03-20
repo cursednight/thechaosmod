@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:obsidian"
+  },
+  "addition": {
+    "item": "minecraft:iron_bars"
+  },
+  "result": {
+    "item": "the_chaos_mod:caged_obsidian"
+  }
+}

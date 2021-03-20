@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_chaos_mod:block/crystal_tree_slab"
+    },
+    "type=top": {
+      "model": "the_chaos_mod:block/crystal_tree_slab_top"
+    },
+    "type=double": {
+      "model": "the_chaos_mod:block/crystal_tree_slab_full"
+    }
+  }
+}

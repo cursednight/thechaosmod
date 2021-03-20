@@ -1,0 +1,23 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:sulfer_dust"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:bullet_asd_6",
+    "count": 10
+  }
+}

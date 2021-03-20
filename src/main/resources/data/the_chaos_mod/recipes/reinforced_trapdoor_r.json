@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:reinforcer"
+    },
+    {
+      "item": "minecraft:iron_trapdoor"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:reinforced_trapdoor",
+    "count": 1
+  }
+}

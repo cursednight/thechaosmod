@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/crystalstone",
+    "up": "the_chaos_mod:blocks/crystalstone",
+    "north": "the_chaos_mod:blocks/crystalstone",
+    "east": "the_chaos_mod:blocks/crystalstone",
+    "south": "the_chaos_mod:blocks/crystalstone",
+    "west": "the_chaos_mod:blocks/crystalstone",
+    "particle": "the_chaos_mod:blocks/crystalstone"
+  }
+}

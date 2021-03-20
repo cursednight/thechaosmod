@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "1": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "2": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "3": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "4": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "5": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "6": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "7": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "8": {
+      "item": "the_chaos_mod:frost_opal"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:frost_opal_block",
+    "count": 1
+  }
+}

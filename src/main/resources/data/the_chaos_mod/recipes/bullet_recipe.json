@@ -1,0 +1,19 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "the_chaos_mod:sulfer_dust"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:bullet",
+    "count": 4
+  }
+}

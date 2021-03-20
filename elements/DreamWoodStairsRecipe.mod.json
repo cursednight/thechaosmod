@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DreamWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DreamWoodStairs"
+    },
+    "name": "dream_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

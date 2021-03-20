@@ -1,0 +1,22 @@
+{
+  "rockishcool": {
+    "category": "music",
+    "subtitle": "subtitles.rockishcool",
+    "sounds": [
+      {
+        "name": "the_chaos_mod:rockishcool",
+        "stream": true
+      }
+    ]
+  },
+  "jazz": {
+    "category": "music",
+    "subtitle": "subtitles.jazz",
+    "sounds": [
+      {
+        "name": "the_chaos_mod:jazzyjazz",
+        "stream": true
+      }
+    ]
+  }
+}

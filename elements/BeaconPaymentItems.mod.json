@@ -1,0 +1,95 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Thaniumite"
+      },
+      {
+        "value": "CUSTOM:EnduriumIngot"
+      },
+      {
+        "value": "CUSTOM:Netherium"
+      },
+      {
+        "value": "CUSTOM:SulferDust"
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": "CUSTOM:AlaminiumIngot"
+      },
+      {
+        "value": "CUSTOM:TinIngot"
+      },
+      {
+        "value": "CUSTOM:Lonsdaleite"
+      },
+      {
+        "value": "CUSTOM:AragoniteIngot"
+      },
+      {
+        "value": "CUSTOM:Quartz"
+      },
+      {
+        "value": "CUSTOM:EnderiteIngot"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:EndersteelIngot"
+      },
+      {
+        "value": "CUSTOM:SylfiaDust"
+      },
+      {
+        "value": "CUSTOM:FrostOpal"
+      },
+      {
+        "value": "CUSTOM:RedSteel"
+      },
+      {
+        "value": "CUSTOM:RedEmerald"
+      },
+      {
+        "value": "CUSTOM:Gem1"
+      },
+      {
+        "value": "CUSTOM:Gem2"
+      },
+      {
+        "value": "CUSTOM:Reinforcer"
+      },
+      {
+        "value": "CUSTOM:Ruby"
+      },
+      {
+        "value": "CUSTOM:TigersEyeIngot"
+      },
+      {
+        "value": "CUSTOM:Amythestt"
+      },
+      {
+        "value": "CUSTOM:PinkGarnetIngot"
+      },
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "CUSTOM:UraniiumIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "beacon_payment_items",
+    "namespace": "minecraft"
+  }
+}

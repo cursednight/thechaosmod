@@ -1,0 +1,40 @@
+{
+  "_fv": 15,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "future_gun_v2",
+    "customModelName": "Normal",
+    "name": "Future Gun",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Bullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.tnt.primed"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "bulletPower": 5.0,
+    "bulletDamage": 40.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsPlayer": {
+      "name": "FutureGunBulletHitsPlayer"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "pink_helmet",
+    "enableBody": true,
+    "textureBody": "pink_chest",
+    "enableLeggings": true,
+    "textureLeggings": "pink_leggings",
+    "enableBoots": true,
+    "textureBoots": "pink_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "pinkgarnet",
+    "helmetName": "PinkGarnet Helmet",
+    "bodyName": "PinkGarnet Chestplate",
+    "leggingsName": "PinkGarnet Leggings",
+    "bootsName": "PinkGarnet Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 45,
+    "damageValueHelmet": 20,
+    "damageValueBody": 20,
+    "damageValueLeggings": 20,
+    "damageValueBoots": 20,
+    "enchantability": 27,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PinkGarnetIngot"
+      }
+    ]
+  }
+}

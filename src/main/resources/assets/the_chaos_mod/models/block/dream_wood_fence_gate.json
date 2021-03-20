@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "the_chaos_mod:blocks/mossy_dreamwood_planks"
+  }
+}

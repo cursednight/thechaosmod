@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "the_chaos_mod:blocks/budding_amethyst1",
+    "particle": "the_chaos_mod:blocks/budding_amethyst1"
+  }
+}

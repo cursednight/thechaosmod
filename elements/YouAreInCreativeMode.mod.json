@@ -1,0 +1,28 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "you are in creative mode",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "you are in creative mode",
+          "x": 152,
+          "y": 4
+        }
+      }
+    ]
+  }
+}

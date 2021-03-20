@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GoldLayeredWoodWood"
+      },
+      {
+        "value": "CUSTOM:GoldLayeredWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "goldlayeredwood_log",
+    "namespace": "forge"
+  }
+}

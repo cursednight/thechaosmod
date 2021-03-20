@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "the_chaos_mod:blocks/crystalplanks",
+    "top": "the_chaos_mod:blocks/crystalplanks",
+    "side": "the_chaos_mod:blocks/crystalplanks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "alaminium_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

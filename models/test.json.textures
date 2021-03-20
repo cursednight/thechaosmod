@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "endurium_ore_block"
+      },
+      "name": "default"
+    },
+    "top": {
+      "map": {
+        "missing": "endstone"
+      },
+      "name": "top"
+    },
+    "drill": {
+      "map": {
+        "missing": "alaminium_ore_block"
+      },
+      "name": "drill"
+    }
+  }
+}

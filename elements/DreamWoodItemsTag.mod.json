@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DreamWoodWood"
+      },
+      {
+        "value": "CUSTOM:DreamWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "dreamwood_log",
+    "namespace": "forge"
+  }
+}

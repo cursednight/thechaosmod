@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Thanium"
+      },
+      {
+        "value": "CUSTOM:Dirt"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

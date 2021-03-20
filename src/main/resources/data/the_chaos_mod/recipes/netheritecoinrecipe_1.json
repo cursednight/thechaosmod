@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:netherite_coin",
+    "count": 4
+  }
+}

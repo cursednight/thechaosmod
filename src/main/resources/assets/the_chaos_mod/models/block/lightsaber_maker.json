@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/crafty_crate_bottom",
+    "up": "the_chaos_mod:blocks/crafty_crate",
+    "north": "the_chaos_mod:blocks/crafty_crate_bottom",
+    "east": "the_chaos_mod:blocks/crafty_crate_bottom",
+    "south": "the_chaos_mod:blocks/crafty_crate_bottom",
+    "west": "the_chaos_mod:blocks/crafty_crate_bottom",
+    "particle": "the_chaos_mod:blocks/crafty_crate_bottom"
+  }
+}

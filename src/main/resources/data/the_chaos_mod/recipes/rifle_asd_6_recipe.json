@@ -1,0 +1,30 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "the_chaos_mod:copper_ingot"
+    },
+    "5": {
+      "item": "the_chaos_mod:copper_ingot"
+    },
+    "6": {
+      "item": "the_chaos_mod:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:rifle_asd_6",
+    "count": 1
+  }
+}

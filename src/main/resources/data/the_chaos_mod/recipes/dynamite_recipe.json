@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:torch"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:dynamite",
+    "count": 1
+  }
+}

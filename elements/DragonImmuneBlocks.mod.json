@@ -1,0 +1,17 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CagedObsidian"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dragon_immune",
+    "namespace": "minecraft"
+  }
+}

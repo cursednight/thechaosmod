@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:eye_of_ender_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 9
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "fused_head",
+    "enableBody": true,
+    "textureBody": "fused_body",
+    "enableLeggings": true,
+    "textureLeggings": "fused_leggings",
+    "enableBoots": true,
+    "textureBoots": "fused_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "fused",
+    "helmetName": "Fused Helmet",
+    "bodyName": "Fused Chestplate",
+    "leggingsName": "Fused Leggings",
+    "bootsName": "Fused Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 120,
+    "damageValueHelmet": 16,
+    "damageValueBody": 40,
+    "damageValueLeggings": 48,
+    "damageValueBoots": 16,
+    "enchantability": 72,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      }
+    ]
+  }
+}

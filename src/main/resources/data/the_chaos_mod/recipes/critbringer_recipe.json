@@ -1,0 +1,30 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "the_chaos_mod:critbringers_blade"
+    },
+    "3": {
+      "item": "the_chaos_mod:critbringers_tech_heart"
+    },
+    "4": {
+      "item": "the_chaos_mod:fusedruby_sword"
+    },
+    "5": {
+      "item": "the_chaos_mod:critbringers_admant_heart_fragment"
+    },
+    "7": {
+      "item": "the_chaos_mod:critbringers_hilt"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:crit_bringer",
+    "count": 1
+  }
+}

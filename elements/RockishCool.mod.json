@@ -1,0 +1,17 @@
+{
+  "_fv": 15,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "rockishcool",
+    "name": "Rockish Cool",
+    "description": "rockish cool",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:rockishcool"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

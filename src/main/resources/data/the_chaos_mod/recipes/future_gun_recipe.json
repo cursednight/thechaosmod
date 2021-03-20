@@ -1,0 +1,36 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_blackstone_button"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "the_chaos_mod:enderite_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_nugget"
+    },
+    "7": {
+      "item": "minecraft:iron_nugget"
+    },
+    "8": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:future_gun",
+    "count": 1
+  }
+}

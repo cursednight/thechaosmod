@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_chaos_mod:blocks/magenta_mushroom",
+    "particle": "the_chaos_mod:blocks/magenta_mushroom"
+  }
+}

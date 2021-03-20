@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/chippedbedrock",
+    "up": "the_chaos_mod:blocks/chippedbedrock",
+    "north": "the_chaos_mod:blocks/chippedbedrock",
+    "east": "the_chaos_mod:blocks/chippedbedrock",
+    "south": "the_chaos_mod:blocks/chippedbedrock",
+    "west": "the_chaos_mod:blocks/chippedbedrock",
+    "particle": "the_chaos_mod:blocks/chippedbedrock"
+  }
+}

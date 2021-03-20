@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "the_chaos_mod:blocks/reinforced_door_lower",
+    "top": "the_chaos_mod:blocks/reinforced_door_upper"
+  }
+}

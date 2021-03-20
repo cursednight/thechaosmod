@@ -1,0 +1,27 @@
+{
+  "_fv": 15,
+  "_type": "structure",
+  "definition": {
+    "structure": "ld_portal_001-hell",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 4000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 6,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End",
+      "CUSTOM:Thanier",
+      "CUSTOM:Aether",
+      "CUSTOM:TheVoid"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TinIngot"
+      },
+      {
+        "value": "CUSTOM:CopperIngot"
+      },
+      {
+        "value": "CUSTOM:TinIngot"
+      },
+      {
+        "value": "CUSTOM:CopperIngot"
+      },
+      {
+        "value": "CUSTOM:MachineFrame"
+      },
+      {
+        "value": "CUSTOM:CopperIngot"
+      },
+      {
+        "value": "CUSTOM:TinIngot"
+      },
+      {
+        "value": "CUSTOM:CopperIngot"
+      },
+      {
+        "value": "CUSTOM:TinIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Safe"
+    },
+    "name": "safe_recipe",
+    "namespace": "mod"
+  }
+}

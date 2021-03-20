@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/breadmaker2",
+    "up": "the_chaos_mod:blocks/breadmaker2",
+    "north": "the_chaos_mod:blocks/breadmaker1",
+    "east": "the_chaos_mod:blocks/breadmaker1",
+    "south": "the_chaos_mod:blocks/breadmaker1",
+    "west": "the_chaos_mod:blocks/breadmaker1",
+    "particle": "the_chaos_mod:blocks/breadmaker2"
+  }
+}

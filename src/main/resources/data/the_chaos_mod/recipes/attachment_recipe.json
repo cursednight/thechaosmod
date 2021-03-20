@@ -1,0 +1,30 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:tin_ingot"
+    },
+    "2": {
+      "item": "the_chaos_mod:copper_ingot"
+    },
+    "4": {
+      "item": "the_chaos_mod:lonsdaleite"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "the_chaos_mod:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:attachment",
+    "count": 1
+  }
+}

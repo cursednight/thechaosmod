@@ -1,0 +1,53 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "password",
+          "x": 153,
+          "y": 104
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "unlock",
+          "onClick": {
+            "name": "UnlockButton"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "unlock",
+          "x": 178,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "safe",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "safe",
+          "x": 197,
+          "y": 75
+        }
+      }
+    ]
+  }
+}

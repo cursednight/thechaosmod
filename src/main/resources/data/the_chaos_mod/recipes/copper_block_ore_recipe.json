@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:copper_block"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:copper_ingot",
+    "count": 9
+  }
+}

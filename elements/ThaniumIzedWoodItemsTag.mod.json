@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ThaniumIzedWoodWood"
+      },
+      {
+        "value": "CUSTOM:ThaniumIzedWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "thaniumizedwood_log",
+    "namespace": "forge"
+  }
+}

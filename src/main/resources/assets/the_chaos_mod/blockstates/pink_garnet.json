@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=1": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=2": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=3": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=4": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=5": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=6": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=7": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=8": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=9": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=10": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=11": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=12": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=13": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=14": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    },
+    "age=15": {
+      "model": "the_chaos_mod:block/pink_garnet"
+    }
+  }
+}

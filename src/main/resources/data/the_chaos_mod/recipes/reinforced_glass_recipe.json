@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "the_chaos_mod:reinforcer"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:reinforced_glass",
+    "count": 1
+  }
+}

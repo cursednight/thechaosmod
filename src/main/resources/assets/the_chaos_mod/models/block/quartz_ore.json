@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_chaos_mod:blocks/quartz_ore",
+    "particle": "the_chaos_mod:blocks/quartz_ore"
+  }
+}

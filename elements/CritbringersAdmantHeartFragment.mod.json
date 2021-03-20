@@ -1,0 +1,35 @@
+{
+  "_fv": 15,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "fragment1",
+    "customModelName": "Normal",
+    "name": "Critbringers Admant Heart Fragment",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 6.0,
+    "specialInfo": [
+      "crackle"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

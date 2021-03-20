@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/glimmering_livingwood",
+    "up": "the_chaos_mod:blocks/golden_grass_top",
+    "north": "the_chaos_mod:blocks/golden_grass_side",
+    "east": "the_chaos_mod:blocks/golden_grass_side",
+    "south": "the_chaos_mod:blocks/golden_grass_side",
+    "west": "the_chaos_mod:blocks/golden_grass_side",
+    "particle": "the_chaos_mod:blocks/glimmering_livingwood"
+  }
+}

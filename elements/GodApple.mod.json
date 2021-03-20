@@ -1,0 +1,29 @@
+{
+  "_fv": 15,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "redstone_spreader_inside",
+    "customModelName": "Normal",
+    "name": "God Apple",
+    "rarity": "EPIC",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 111,
+    "saturation": 1.0,
+    "eatingSpeed": 20,
+    "resultItem": {
+      "value": "CUSTOM:Safe"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "GodAppleFoodEaten"
+    }
+  }
+}

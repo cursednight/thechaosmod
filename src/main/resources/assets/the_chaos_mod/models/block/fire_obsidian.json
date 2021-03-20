@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "up": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "north": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "east": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "south": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "west": "the_chaos_mod:blocks/obsidian_upgrade2",
+    "particle": "the_chaos_mod:blocks/obsidian_upgrade2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ThaniumGravel"
+      },
+      {
+        "value": "CUSTOM:Thanium"
+      },
+      {
+        "value": "CUSTOM:IonizedThanium"
+      },
+      {
+        "value": "CUSTOM:PortalMaker"
+      },
+      {
+        "value": "CUSTOM:ThaniumIzedWoodLog"
+      },
+      {
+        "value": "CUSTOM:EyeOfEnderBlock"
+      },
+      {
+        "value": "CUSTOM:FireObsidian"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "infiburn_overworld",
+    "namespace": "minecraft"
+  }
+}

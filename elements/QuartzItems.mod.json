@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Quartz"
+      },
+      {
+        "value": "Items.QUARTZ"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "quartz_items",
+    "namespace": "forge"
+  }
+}

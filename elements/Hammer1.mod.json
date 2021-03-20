@@ -1,0 +1,36 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer1",
+    "customModelName": "Normal",
+    "name": "Hammer 1",
+    "specialInfo": [
+      "mines in a three by three patturn"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 111,
+    "damageVsEntity": 5.0,
+    "usageCount": 1111,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HelloAgain"
+    }
+  }
+}

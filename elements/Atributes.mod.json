@@ -1,0 +1,12 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Z",
+    "keyBindingName": "Atributes",
+    "keyBindingCategoryKey": "inventory",
+    "onKeyPressed": {
+      "name": "AtributesOnKeyPressed"
+    }
+  }
+}

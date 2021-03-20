@@ -1,0 +1,37 @@
+{
+  "_fv": 15,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "rifle",
+    "customModelName": "Normal",
+    "name": "Rifle ASD6",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:BulletASD6"
+    },
+    "shootConstantly": false,
+    "usageCount": 1200,
+    "actionSound": {
+      "value": "entity.tnt.primed"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 15.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:BulletASD6"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

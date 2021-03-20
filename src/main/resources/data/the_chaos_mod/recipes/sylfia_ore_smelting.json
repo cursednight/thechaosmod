@@ -1,0 +1,12 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.59,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_chaos_mod:sylfia_ore"
+  },
+  "result": {
+    "item": "the_chaos_mod:sylfia_dust"
+  }
+}

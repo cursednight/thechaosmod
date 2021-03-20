@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "the_chaos_mod:blocks/window1",
+    "pane": "the_chaos_mod:blocks/window1"
+  }
+}

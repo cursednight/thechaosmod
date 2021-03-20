@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "the_chaos_mod:blocks/aeonforge1",
+    "top": "the_chaos_mod:blocks/aeonforge2"
+  }
+}

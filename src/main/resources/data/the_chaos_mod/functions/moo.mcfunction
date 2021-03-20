@@ -1,0 +1,1 @@
+/give @p minecraft:birch_log 64

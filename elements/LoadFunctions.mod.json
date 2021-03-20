@@ -1,0 +1,15 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Functions",
+    "items": [],
+    "blocks": [],
+    "functions": [
+      "Moo"
+    ],
+    "entities": [],
+    "name": "load",
+    "namespace": "minecraft"
+  }
+}

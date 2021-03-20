@@ -1,0 +1,26 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "2": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "3": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "5": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:fused_armor_boots",
+    "count": 1
+  }
+}

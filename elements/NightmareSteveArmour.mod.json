@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "sylfia_body",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "sylfia",
+    "helmetName": "Nightmare Steve Armour Helmet",
+    "bodyName": "Nightmare Steve Armour Body",
+    "leggingsName": "Nightmare Steve Armour Leggings",
+    "bootsName": "Nightmare Steve Armour Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Modelherobrine",
+    "bodyModelPart": "Head",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightLeg",
+    "bodyModelTexture": "nightmare_steve.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1000,
+    "damageValueHelmet": 100,
+    "damageValueBody": 100,
+    "damageValueLeggings": 100,
+    "damageValueBoots": 100,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ]
+  }
+}

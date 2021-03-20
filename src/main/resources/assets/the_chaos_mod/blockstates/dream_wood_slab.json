@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_chaos_mod:block/dream_wood_slab"
+    },
+    "type=top": {
+      "model": "the_chaos_mod:block/dream_wood_slab_top"
+    },
+    "type=double": {
+      "model": "the_chaos_mod:block/dream_wood_slab_full"
+    }
+  }
+}

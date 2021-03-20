@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:coals"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "tag": "minecraft:coals"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "4": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "5": {
+      "item": "minecraft:cobblestone"
+    },
+    "6": {
+      "tag": "minecraft:coals"
+    },
+    "7": {
+      "item": "minecraft:cobblestone"
+    },
+    "8": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:thanier",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz"
+    },
+    "1": {
+      "item": "the_chaos_mod:caged_obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    },
+    "5": {
+      "item": "the_chaos_mod:caged_obsidian"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:bedrock_chipper",
+    "count": 1
+  }
+}

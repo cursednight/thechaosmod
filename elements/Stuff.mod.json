@@ -1,0 +1,112 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "VIT",
+          "onClick": {
+            "name": "VIT"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "VIT",
+          "x": 127,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "str",
+          "onClick": {
+            "name": "STR"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "str",
+          "x": 128,
+          "y": 79
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "fly",
+          "onClick": {
+            "name": "Ffly"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "fly",
+          "x": 127,
+          "y": 99
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "AGI",
+          "onClick": {
+            "name": "Agi"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "AGI",
+          "x": 261,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "water",
+          "onClick": {
+            "name": "Water"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "water",
+          "x": 247,
+          "y": 97
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "fire",
+          "onClick": {
+            "name": "Fire"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "fire",
+          "x": 254,
+          "y": 77
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "attributes",
+          "color": {
+            "value": -6711040,
+            "falpha": 0.0
+          },
+          "name": "attributes",
+          "x": 187,
+          "y": 39
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CrystalTreeWood"
+      },
+      {
+        "value": "CUSTOM:CrystalTreeLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "crystaltree_log",
+    "namespace": "forge"
+  }
+}

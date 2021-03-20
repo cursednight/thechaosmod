@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "the_chaos_mod:blocks/thaniumizedwood_planks",
+    "top": "the_chaos_mod:blocks/thaniumizedwood_planks",
+    "side": "the_chaos_mod:blocks/thaniumizedwood_planks"
+  }
+}

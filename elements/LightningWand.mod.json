@@ -1,0 +1,67 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightningwand1",
+    "customModelName": "Normal",
+    "name": "Lightning Wand",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnduriumIngot"
+      },
+      {
+        "value": "CUSTOM:CopperIngot"
+      },
+      {
+        "value": "CUSTOM:AlaminiumIngot"
+      },
+      {
+        "value": "CUSTOM:TinIngot"
+      },
+      {
+        "value": "CUSTOM:AragoniteIngot"
+      },
+      {
+        "value": "CUSTOM:EnderiteIngot"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:EndersteelIngot"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "LightningWandRightClickedInAir"
+    }
+  }
+}

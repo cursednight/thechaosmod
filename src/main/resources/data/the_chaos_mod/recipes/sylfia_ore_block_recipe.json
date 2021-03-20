@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "1": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "2": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "3": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "4": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "5": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "6": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "7": {
+      "item": "the_chaos_mod:sylfia_dust"
+    },
+    "8": {
+      "item": "the_chaos_mod:sylfia_dust"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:sylfia_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "the_chaos_mod:thaniumite_sword"
+  },
+  "addition": {
+    "item": "the_chaos_mod:endurium_ingot"
+  },
+  "result": {
+    "item": "the_chaos_mod:fused_sword"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "back",
+          "onClick": {
+            "name": "P3pro"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "back",
+          "x": 128,
+          "y": 175
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rifleasd6recipe.png",
+          "use1Xscale": false,
+          "name": "rifleasd6recipe.png",
+          "x": 130,
+          "y": 64
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "rifle asd 6",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "rifle asd 6",
+          "x": 130,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "hope this helps you ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "hope this helps you ",
+          "x": 152,
+          "y": 105
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "made by cursed night",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "made by cursed night",
+          "x": 152,
+          "y": 120
+        }
+      }
+    ]
+  }
+}

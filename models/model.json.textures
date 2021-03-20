@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "thaniumizedwood_log_side"
+      },
+      "name": "default"
+    }
+  }
+}

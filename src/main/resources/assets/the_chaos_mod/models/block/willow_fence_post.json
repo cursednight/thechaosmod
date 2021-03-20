@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "the_chaos_mod:blocks/willow_planks",
+    "particle": "the_chaos_mod:blocks/willow_planks"
+  }
+}

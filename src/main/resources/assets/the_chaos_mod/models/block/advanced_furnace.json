@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/aeonforge1",
+    "up": "the_chaos_mod:blocks/aeonforge1",
+    "north": "the_chaos_mod:blocks/advancedfurnace",
+    "east": "the_chaos_mod:blocks/aeonforge1",
+    "south": "the_chaos_mod:blocks/aeonforge1",
+    "west": "the_chaos_mod:blocks/aeonforge1",
+    "particle": "the_chaos_mod:blocks/aeonforge1"
+  }
+}

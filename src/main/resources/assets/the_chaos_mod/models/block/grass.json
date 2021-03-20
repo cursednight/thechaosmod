@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/grass1",
+    "up": "the_chaos_mod:blocks/grass1",
+    "north": "the_chaos_mod:blocks/grass1",
+    "east": "the_chaos_mod:blocks/grass1",
+    "south": "the_chaos_mod:blocks/grass1",
+    "west": "the_chaos_mod:blocks/grass1",
+    "particle": "the_chaos_mod:blocks/grass1"
+  }
+}

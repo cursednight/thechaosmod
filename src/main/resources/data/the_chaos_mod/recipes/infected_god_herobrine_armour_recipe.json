@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:withered_gem"
+    },
+    "1": {
+      "item": "the_chaos_mod:aetherstone"
+    },
+    "2": {
+      "item": "the_chaos_mod:withered_gem"
+    },
+    "3": {
+      "item": "the_chaos_mod:aetherstone"
+    },
+    "4": {
+      "item": "the_chaos_mod:frost_opal"
+    },
+    "5": {
+      "item": "the_chaos_mod:aetherstone"
+    },
+    "6": {
+      "item": "the_chaos_mod:withered_gem"
+    },
+    "7": {
+      "item": "the_chaos_mod:aragonite_ingot"
+    },
+    "8": {
+      "item": "the_chaos_mod:withered_gem"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:infected_god_herobrine_rainbow_steve_armour_chestplate",
+    "count": 1
+  }
+}

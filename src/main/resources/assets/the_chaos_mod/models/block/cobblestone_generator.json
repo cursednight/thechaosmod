@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/salt",
+    "up": "the_chaos_mod:blocks/cobblegenerator",
+    "north": "the_chaos_mod:blocks/tin_ore_block",
+    "east": "the_chaos_mod:blocks/salt",
+    "south": "the_chaos_mod:blocks/salt",
+    "west": "the_chaos_mod:blocks/salt",
+    "particle": "the_chaos_mod:blocks/salt"
+  }
+}

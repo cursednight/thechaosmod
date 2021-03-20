@@ -1,0 +1,31 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aetherstones_pickaxe",
+    "customModelName": "Normal",
+    "name": "Aetherstones Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 6,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 70,
+    "damageVsEntity": 10.0,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Aetherstone"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

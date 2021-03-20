@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:bronze_ingot",
+    "count": 9
+  }
+}

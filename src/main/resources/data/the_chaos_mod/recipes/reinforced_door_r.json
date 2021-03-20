@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:reinforcer"
+    },
+    {
+      "item": "minecraft:iron_door"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:reinforced_door",
+    "count": 1
+  }
+}

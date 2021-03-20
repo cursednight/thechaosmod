@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_chaos_mod:blocks/wheat_stage0.1",
+    "particle": "the_chaos_mod:blocks/wheat_stage0.1"
+  }
+}

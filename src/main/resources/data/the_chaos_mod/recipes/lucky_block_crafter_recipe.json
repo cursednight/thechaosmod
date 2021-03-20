@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "item": "the_chaos_mod:red_steel"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "item": "minecraft:iron_bars"
+    },
+    "4": {
+      "item": "the_chaos_mod:withered_gem"
+    },
+    "5": {
+      "item": "minecraft:iron_bars"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_nugget"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:lucky_block_maker",
+    "count": 1
+  }
+}

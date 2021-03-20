@@ -1,0 +1,22 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:diamond_coin"
+    },
+    {
+      "item": "the_chaos_mod:diamond_coin"
+    },
+    {
+      "item": "the_chaos_mod:diamond_coin"
+    },
+    {
+      "item": "the_chaos_mod:diamond_coin"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:netherite_coin",
+    "count": 1
+  }
+}

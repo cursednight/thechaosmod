@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/chiseled_livingrock_bricks",
+    "up": "the_chaos_mod:blocks/chiseled_livingrock_bricks",
+    "north": "the_chaos_mod:blocks/craftycrate",
+    "east": "the_chaos_mod:blocks/chiseled_livingrock_bricks",
+    "south": "the_chaos_mod:blocks/chiseled_livingrock_bricks",
+    "west": "the_chaos_mod:blocks/chiseled_livingrock_bricks",
+    "particle": "the_chaos_mod:blocks/chiseled_livingrock_bricks"
+  }
+}

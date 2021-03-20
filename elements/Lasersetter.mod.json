@@ -1,0 +1,225 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "x+1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "x+1",
+          "x": 128,
+          "y": 40
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 35,
+          "height": 20,
+          "name": "off",
+          "x": 130,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 130,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "x-1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "x-1",
+          "x": 131,
+          "y": 96
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 40,
+          "height": 20,
+          "name": "off",
+          "x": 128,
+          "y": 107
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 130,
+          "y": 128
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "z+1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "z+1",
+          "x": 128,
+          "y": 147
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 40,
+          "height": 20,
+          "name": "off",
+          "x": 127,
+          "y": 157
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 130,
+          "y": 177
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "z-1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "z-1",
+          "x": 282,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 40,
+          "height": 20,
+          "name": "off",
+          "x": 253,
+          "y": 52
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 259,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "y+1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "y+1",
+          "x": 281,
+          "y": 93
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 40,
+          "height": 20,
+          "name": "off",
+          "x": 259,
+          "y": 104
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 264,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "y-1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "y-1",
+          "x": 281,
+          "y": 146
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "off",
+          "width": 40,
+          "height": 20,
+          "name": "off",
+          "x": 256,
+          "y": 156
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "on",
+          "width": 35,
+          "height": 20,
+          "name": "on",
+          "x": 262,
+          "y": 175
+        }
+      }
+    ]
+  }
+}

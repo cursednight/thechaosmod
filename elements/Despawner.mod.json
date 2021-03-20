@@ -1,0 +1,32 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "despawner",
+    "customModelName": "Normal",
+    "name": "Despawner",
+    "specialInfo": [
+      "despawns the mob you hit with it"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 100.0,
+    "enchantability": 0,
+    "damageVsEntity": 1.0,
+    "usageCount": 50,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "DespawnerLivingEntityIsHitWithTool"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "2": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "3": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "4": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "5": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "6": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "7": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "8": {
+      "item": "the_chaos_mod:thaniumite"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:thaniumite_armor_chestplate",
+    "count": 1
+  }
+}

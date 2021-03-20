@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dreamwood_log"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:dream_wood_planks",
+    "count": 4
+  }
+}

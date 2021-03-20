@@ -1,0 +1,29 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:quartz"
+    },
+    "1": {
+      "item": "the_chaos_mod:quartz"
+    },
+    "2": {
+      "item": "the_chaos_mod:quartz"
+    },
+    "3": {
+      "item": "the_chaos_mod:quartz"
+    },
+    "5": {
+      "item": "the_chaos_mod:quartz"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:quartz_armor_helmet",
+    "count": 1
+  }
+}

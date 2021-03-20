@@ -1,0 +1,36 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "quartzitems"
+    },
+    "1": {
+      "tag": "quartzitems"
+    },
+    "2": {
+      "tag": "quartzitems"
+    },
+    "3": {
+      "tag": "quartzitems"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "tag": "quartzitems"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:quartz_battle_axe",
+    "count": 1
+  }
+}

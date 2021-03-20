@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_chaos_mod:block/the_void_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_chaos_mod:block/the_void_portal_ns"
+    }
+  }
+}

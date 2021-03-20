@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_chaos_mod:block/pine_slab"
+    },
+    "type=top": {
+      "model": "the_chaos_mod:block/pine_slab_top"
+    },
+    "type=double": {
+      "model": "the_chaos_mod:block/pine_slab_full"
+    }
+  }
+}

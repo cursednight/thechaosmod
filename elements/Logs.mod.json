@@ -1,0 +1,29 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ThaniumIzedWoodLog"
+      },
+      {
+        "value": "CUSTOM:WillowLog"
+      },
+      {
+        "value": "CUSTOM:GoldLayeredWoodLog"
+      },
+      {
+        "value": "CUSTOM:DreamWoodLog"
+      },
+      {
+        "value": "CUSTOM:CrystalTreeLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

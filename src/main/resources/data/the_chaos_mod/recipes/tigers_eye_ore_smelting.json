@@ -1,0 +1,12 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_chaos_mod:tigers_eyee"
+  },
+  "result": {
+    "item": "the_chaos_mod:tigers_eye_ingot"
+  }
+}

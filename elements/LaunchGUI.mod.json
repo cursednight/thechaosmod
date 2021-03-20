@@ -1,0 +1,113 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "earth",
+          "onClick": {
+            "name": "Earth"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "earth",
+          "x": 128,
+          "y": 40
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "thanier",
+          "onClick": {
+            "name": "Thanierp"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "thanier",
+          "x": 128,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "void",
+          "onClick": {
+            "name": "Voidp"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "void",
+          "x": 130,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "aether",
+          "onClick": {
+            "name": "Aetherp"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "aether",
+          "x": 131,
+          "y": 100
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "mars",
+          "onClick": {
+            "name": "Marsp"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "mars",
+          "x": 131,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "end",
+          "onClick": {
+            "name": "Endp"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "end",
+          "x": 131,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "nether",
+          "onClick": {
+            "name": "Netherp"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "nether",
+          "x": 132,
+          "y": 162
+        }
+      }
+    ]
+  }
+}

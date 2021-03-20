@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/dimensionalluckyblock",
+    "up": "the_chaos_mod:blocks/aeonforge2",
+    "north": "the_chaos_mod:blocks/portalmaker",
+    "east": "the_chaos_mod:blocks/dimensionalluckyblock",
+    "south": "the_chaos_mod:blocks/dimensionalluckyblock",
+    "west": "the_chaos_mod:blocks/dimensionalluckyblock",
+    "particle": "the_chaos_mod:blocks/dimensionalluckyblock"
+  }
+}

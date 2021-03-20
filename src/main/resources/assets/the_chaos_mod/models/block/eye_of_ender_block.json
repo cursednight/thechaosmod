@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_chaos_mod:blocks/blockeyeofender",
+    "up": "the_chaos_mod:blocks/blockeyeofender",
+    "north": "the_chaos_mod:blocks/blockeyeofender",
+    "east": "the_chaos_mod:blocks/blockeyeofender",
+    "south": "the_chaos_mod:blocks/blockeyeofender",
+    "west": "the_chaos_mod:blocks/blockeyeofender",
+    "particle": "the_chaos_mod:blocks/blockeyeofender"
+  }
+}

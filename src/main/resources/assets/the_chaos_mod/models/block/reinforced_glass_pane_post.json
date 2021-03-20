@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "the_chaos_mod:blocks/glass_reinforced_pane_top",
+    "pane": "the_chaos_mod:blocks/reinforced_glass"
+  }
+}

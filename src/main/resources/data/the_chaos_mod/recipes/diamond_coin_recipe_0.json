@@ -1,0 +1,16 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:netherite_coin"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:diamond_coin",
+    "count": 4
+  }
+}

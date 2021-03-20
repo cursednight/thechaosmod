@@ -1,0 +1,7 @@
+{
+  "parent": "the_chaos_mod:custom/test",
+  "textures": {
+    "missing": "the_chaos_mod:blocks/endurium_ore_block",
+    "particle": "the_chaos_mod:items/drill"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "thaniumite_head",
+    "enableBody": true,
+    "textureBody": "thaniumite_body",
+    "enableLeggings": true,
+    "textureLeggings": "thaniumite_leggings",
+    "enableBoots": false,
+    "textureBoots": "",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "thaniumite",
+    "helmetName": "Red Steve Armour Helmet",
+    "bodyName": "Red Steve Armour Body",
+    "leggingsName": "Red Steve Armour Leggings",
+    "bootsName": "Red Steve Armour Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelherobrinehelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "red_steve.png",
+    "bodyModelName": "Modelherobrinebody",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "red_steve.png",
+    "leggingsModelName": "Modelherobrinelegs",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "red_steve.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1000,
+    "damageValueHelmet": 100,
+    "damageValueBody": 100,
+    "damageValueLeggings": 100,
+    "damageValueBoots": 100,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ]
+  }
+}

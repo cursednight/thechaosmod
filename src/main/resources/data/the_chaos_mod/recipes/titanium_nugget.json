@@ -1,0 +1,13 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_chaos_mod:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "the_chaos_mod:tittanium",
+    "count": 9
+  }
+}

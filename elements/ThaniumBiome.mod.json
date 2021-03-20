@@ -1,0 +1,130 @@
+{
+  "_fv": 15,
+  "_type": "biome",
+  "definition": {
+    "name": "Thanium Biome",
+    "groundBlock": {
+      "value": "CUSTOM:Thanium"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:IonizedThanium"
+    },
+    "ambientSound": {
+      "value": "ambient.nether_wastes.loop"
+    },
+    "additionsSound": {
+      "value": "ambient.nether_wastes.additions"
+    },
+    "music": {
+      "value": "ambient.nether_wastes.loop"
+    },
+    "moodSound": {
+      "value": "ambient.nether_wastes.mood"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "DESERT",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.0,
+    "temperature": 2.0,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "DESERT",
+    "spawnBiome": false,
+    "biomeWeight": 100,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 0,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "CUSTOM:Thanium"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:IonizedThanium"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityHoglin"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityPiglinBrute"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityStrider"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityPiglin"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityIronGolem"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 100,
+        "spawnType": "ambient"
+      }
+    ]
+  }
+}

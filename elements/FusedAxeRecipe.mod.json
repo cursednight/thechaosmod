@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:ThaniumiteAxe"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:EnduriumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:FusedAxe"
+    },
+    "name": "fused_axe_recipe",
+    "namespace": "mod"
+  }
+}

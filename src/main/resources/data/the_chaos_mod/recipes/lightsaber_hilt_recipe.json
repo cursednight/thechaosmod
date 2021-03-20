@@ -1,0 +1,26 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_nugget"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    },
+    "4": {
+      "item": "the_chaos_mod:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:lightsaber_hilt",
+    "count": 1
+  }
+}

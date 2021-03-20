@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GoldCoin"
+      },
+      {
+        "value": "CUSTOM:GoldCoin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldCoin"
+      },
+      {
+        "value": "CUSTOM:GoldCoin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DiamondCoin"
+    },
+    "name": "diamond_coin_recipe_1",
+    "namespace": "mod"
+  }
+}

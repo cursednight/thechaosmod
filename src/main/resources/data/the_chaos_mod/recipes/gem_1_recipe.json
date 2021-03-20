@@ -1,0 +1,30 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "the_chaos_mod:salt"
+    },
+    "3": {
+      "item": "the_chaos_mod:salt"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "the_chaos_mod:salt"
+    },
+    "7": {
+      "item": "the_chaos_mod:salt"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:gem_1",
+    "count": 1
+  }
+}

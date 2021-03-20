@@ -1,0 +1,12 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.4499999999999997,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_chaos_mod:aragonite_ore"
+  },
+  "result": {
+    "item": "the_chaos_mod:aragonite_ingot"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "the_chaos_mod:custom/spike",
+  "textures": {
+    "all": "the_chaos_mod:blocks/obsidian",
+    "particle": "the_chaos_mod:blocks/obsidian",
+    "missing": "the_chaos_mod:blocks/obsidian"
+  }
+}

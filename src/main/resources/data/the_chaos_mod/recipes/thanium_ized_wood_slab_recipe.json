@@ -1,0 +1,22 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:thanium_ized_wood_planks"
+    },
+    "1": {
+      "item": "the_chaos_mod:thanium_ized_wood_planks"
+    },
+    "2": {
+      "item": "the_chaos_mod:thanium_ized_wood_planks"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:thanium_ized_wood_slab",
+    "count": 6
+  }
+}

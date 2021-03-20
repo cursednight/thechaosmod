@@ -1,0 +1,68 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 350,
+    "height": 176,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "guide book",
+          "color": {
+            "value": -13434880,
+            "falpha": 0.0
+          },
+          "name": "guide book",
+          "x": 165,
+          "y": 35
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "next page",
+          "onClick": {
+            "name": "P2pro"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "next page",
+          "x": 314,
+          "y": 184
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "this mod adds many things including enderite netherium and silver",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "this mod adds many things including enderite netherium and silver",
+          "x": 50,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "many things can be hard to figure out and if so just look here",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "many things can be hard to figure out and if so just look here",
+          "x": 49,
+          "y": 71
+        }
+      }
+    ]
+  }
+}

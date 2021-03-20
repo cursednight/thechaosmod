@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": "CUSTOM:SylfiaDust"
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Gem2"
+    },
+    "name": "gem_2_recipe",
+    "namespace": "mod"
+  }
+}

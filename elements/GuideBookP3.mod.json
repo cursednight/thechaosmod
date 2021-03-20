@@ -1,0 +1,227 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "back",
+          "onClick": {
+            "name": "P2pro"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "back",
+          "x": 129,
+          "y": 177
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "next",
+          "onClick": {
+            "name": "P4pro"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "next",
+          "x": 251,
+          "y": 180
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dynamitetier2recipe.png",
+          "use1Xscale": false,
+          "name": "dynamitetier2recipe.png",
+          "x": 129,
+          "y": 56
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dynamitetier3recipe.png",
+          "use1Xscale": false,
+          "name": "dynamitetier3recipe.png",
+          "x": 195,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "futuregunrecipe.png",
+          "use1Xscale": false,
+          "name": "futuregunrecipe.png",
+          "x": 266,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "dynamite 2",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "dynamite 2",
+          "x": 129,
+          "y": 47
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "dynamite 3",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "dynamite 3",
+          "x": 194,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "future gun",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "future gun",
+          "x": 249,
+          "y": 50
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lightningwandrecipe.png",
+          "use1Xscale": false,
+          "name": "lightningwandrecipe.png",
+          "x": 127,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "lightning wand",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "lightning wand",
+          "x": 125,
+          "y": 86
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "poisenriflerecipe.png",
+          "use1Xscale": false,
+          "name": "poisenriflerecipe.png",
+          "x": 212,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "poisen rifle",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "poisen rifle",
+          "x": 217,
+          "y": 92
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "portalmakerrecipe.png",
+          "use1Xscale": false,
+          "name": "portalmakerrecipe.png",
+          "x": 130,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "portal maker",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "portal maker",
+          "x": 129,
+          "y": 129
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "redsteelrecipe.png",
+          "use1Xscale": false,
+          "name": "redsteelrecipe.png",
+          "x": 198,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "redsteel",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "redsteel",
+          "x": 195,
+          "y": 127
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "redstonestickrecipe.png",
+          "use1Xscale": false,
+          "name": "redstonestickrecipe.png",
+          "x": 266,
+          "y": 146
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "redstone stick",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "redstone stick",
+          "x": 233,
+          "y": 126
+        }
+      }
+    ]
+  }
+}

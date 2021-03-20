@@ -1,0 +1,42 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:aetherstone"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "minecraft:end_stone"
+    },
+    "3": {
+      "item": "minecraft:iron_bars"
+    },
+    "4": {
+      "item": "the_chaos_mod:machine_frame"
+    },
+    "5": {
+      "item": "minecraft:iron_bars"
+    },
+    "6": {
+      "item": "minecraft:netherrack"
+    },
+    "7": {
+      "item": "minecraft:iron_bars"
+    },
+    "8": {
+      "item": "the_chaos_mod:void_stone"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:launch_computer",
+    "count": 1
+  }
+}

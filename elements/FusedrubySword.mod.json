@@ -1,0 +1,27 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sword1",
+    "customModelName": "Normal",
+    "name": "Fusedruby Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.9,
+    "enchantability": 0,
+    "damageVsEntity": 333.0,
+    "usageCount": 111,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

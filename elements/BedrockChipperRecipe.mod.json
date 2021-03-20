@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "CUSTOM:CagedObsidian"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": "CUSTOM:CagedObsidian"
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.QUARTZ"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BedrockChipper"
+    },
+    "name": "bedrock_chipper_recipe",
+    "namespace": "mod"
+  }
+}

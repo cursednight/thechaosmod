@@ -1,0 +1,29 @@
+{
+  "group": "the_chaos_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "1": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "2": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "3": {
+      "item": "the_chaos_mod:thaniumite"
+    },
+    "5": {
+      "item": "the_chaos_mod:thaniumite"
+    }
+  },
+  "result": {
+    "item": "the_chaos_mod:thaniumite_armor_helmet",
+    "count": 1
+  }
+}

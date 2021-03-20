@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "alaminium_head",
+    "enableBody": true,
+    "textureBody": "alaminium_body",
+    "enableLeggings": true,
+    "textureLeggings": "alaminium_leggings",
+    "enableBoots": false,
+    "textureBoots": "",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "alaminium",
+    "helmetName": "Light Steve Armour Helmet",
+    "bodyName": "Light Steve Armour Body",
+    "leggingsName": "Light Steve Armour Leggings",
+    "bootsName": "Light Steve Armour Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelherobrinehelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "light_steve.png",
+    "bodyModelName": "Modelherobrinebody",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "light_steve.png",
+    "leggingsModelName": "Modelherobrinelegs",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "light_steve.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1000,
+    "damageValueHelmet": 100,
+    "damageValueBody": 100,
+    "damageValueLeggings": 100,
+    "damageValueBoots": 100,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ]
+  }
+}

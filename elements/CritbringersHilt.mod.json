@@ -1,0 +1,36 @@
+{
+  "_fv": 15,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "hiltfragment",
+    "customModelName": "Normal",
+    "name": "Critbringers Hilt",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 0.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onEntityHitWith": {
+      "name": "CritbringersHiltLivingEntityIsHitWithItem"
+    }
+  }
+}
