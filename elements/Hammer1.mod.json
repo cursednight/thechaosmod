@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "hammer1",
+    "texture": "hammysmall",
     "customModelName": "Normal",
     "name": "Hammer 1",
     "specialInfo": [

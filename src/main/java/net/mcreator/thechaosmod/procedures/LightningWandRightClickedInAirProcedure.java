@@ -1,9 +1,14 @@
 package net.mcreator.thechaosmod.procedures;
 
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.event.TickEvent;
+import net.minecraftforge.common.MinecraftForge;
+
 import net.minecraft.world.server.ServerWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.GameType;
+import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.math.vector.Vector3d;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.AxisAlignedBB;
@@ -19,6 +24,7 @@ import net.minecraft.client.entity.player.ClientPlayerEntity;
 import net.minecraft.client.Minecraft;
 
 import net.mcreator.thechaosmod.item.LightningWandItem;
+import net.mcreator.thechaosmod.TheChaosModModVariables;
 import net.mcreator.thechaosmod.TheChaosModModElements;
 import net.mcreator.thechaosmod.TheChaosModMod;
 
@@ -66,57 +72,97 @@ public class LightningWandRightClickedInAirProcedure extends TheChaosModModEleme
 		double y = dependencies.get("y") instanceof Integer ? (int) dependencies.get("y") : (double) dependencies.get("y");
 		double z = dependencies.get("z") instanceof Integer ? (int) dependencies.get("z") : (double) dependencies.get("z");
 		IWorld world = (IWorld) dependencies.get("world");
-		{
-			List<Entity> _entfound = world
-					.getEntitiesWithinAABB(Entity.class,
-							new AxisAlignedBB(x - (20 / 2d), y - (20 / 2d), z - (20 / 2d), x + (20 / 2d), y + (20 / 2d), z + (20 / 2d)), null)
-					.stream().sorted(new Object() {
-						Comparator<Entity> compareDistOf(double _x, double _y, double _z) {
-							return Comparator.comparing((Function<Entity, Double>) (_entcnd -> _entcnd.getDistanceSq(_x, _y, _z)));
-						}
-					}.compareDistOf(x, y, z)).collect(Collectors.toList());
-			for (Entity entityiterator : _entfound) {
-				if ((!(entityiterator == entity))) {
-					if (world instanceof ServerWorld) {
-						LightningBoltEntity _ent = EntityType.LIGHTNING_BOLT.create((World) world);
-						_ent.moveForced(Vector3d.copyCenteredHorizontally(
-								new BlockPos((int) (entityiterator.getPosX()), (int) (entityiterator.getPosY()), (int) (entityiterator.getPosZ()))));
-						_ent.setEffectOnly(false);
-						((World) world).addEntity(_ent);
-					}
-					if ((new Object() {
-						public boolean checkGamemode(Entity _ent) {
-							if (_ent instanceof ServerPlayerEntity) {
-								return ((ServerPlayerEntity) _ent).interactionManager.getGameType() == GameType.SURVIVAL;
-							} else if (_ent instanceof PlayerEntity && _ent.world.isRemote()) {
-								NetworkPlayerInfo _npi = Minecraft.getInstance().getConnection()
-										.getPlayerInfo(((ClientPlayerEntity) _ent).getGameProfile().getId());
-								return _npi != null && _npi.getGameType() == GameType.SURVIVAL;
+		if (((TheChaosModModVariables.MapVariables.get(world).strongswordability) == (false))) {
+			TheChaosModModVariables.MapVariables.get(world).strongswordability = (boolean) (true);
+			TheChaosModModVariables.MapVariables.get(world).syncData(world);
+			{
+				List<Entity> _entfound = world
+						.getEntitiesWithinAABB(Entity.class,
+								new AxisAlignedBB(x - (20 / 2d), y - (20 / 2d), z - (20 / 2d), x + (20 / 2d), y + (20 / 2d), z + (20 / 2d)), null)
+						.stream().sorted(new Object() {
+							Comparator<Entity> compareDistOf(double _x, double _y, double _z) {
+								return Comparator.comparing((Function<Entity, Double>) (_entcnd -> _entcnd.getDistanceSq(_x, _y, _z)));
 							}
-							return false;
+						}.compareDistOf(x, y, z)).collect(Collectors.toList());
+				for (Entity entityiterator : _entfound) {
+					if ((!(entityiterator == entity))) {
+						if (world instanceof ServerWorld) {
+							LightningBoltEntity _ent = EntityType.LIGHTNING_BOLT.create((World) world);
+							_ent.moveForced(Vector3d.copyCenteredHorizontally(new BlockPos((int) (entityiterator.getPosX()),
+									(int) (entityiterator.getPosY()), (int) (entityiterator.getPosZ()))));
+							_ent.setEffectOnly(false);
+							((World) world).addEntity(_ent);
 						}
-					}.checkGamemode(entity))) {
-						if ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY)
-								.getItem() == new ItemStack(LightningWandItem.block, (int) (1)).getItem())) {
-							{
-								ItemStack _ist = ((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY);
-								if (_ist.attemptDamageItem((int) 1, new Random(), null)) {
-									_ist.shrink(1);
-									_ist.setDamage(0);
+						if ((new Object() {
+							public boolean checkGamemode(Entity _ent) {
+								if (_ent instanceof ServerPlayerEntity) {
+									return ((ServerPlayerEntity) _ent).interactionManager.getGameType() == GameType.SURVIVAL;
+								} else if (_ent instanceof PlayerEntity && _ent.world.isRemote()) {
+									NetworkPlayerInfo _npi = Minecraft.getInstance().getConnection()
+											.getPlayerInfo(((ClientPlayerEntity) _ent).getGameProfile().getId());
+									return _npi != null && _npi.getGameType() == GameType.SURVIVAL;
 								}
+								return false;
 							}
-						} else if ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemOffhand() : ItemStack.EMPTY)
-								.getItem() == new ItemStack(LightningWandItem.block, (int) (1)).getItem())) {
-							{
-								ItemStack _ist = ((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemOffhand() : ItemStack.EMPTY);
-								if (_ist.attemptDamageItem((int) 1, new Random(), null)) {
-									_ist.shrink(1);
-									_ist.setDamage(0);
+						}.checkGamemode(entity))) {
+							if ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY)
+									.getItem() == new ItemStack(LightningWandItem.block, (int) (1)).getItem())) {
+								{
+									ItemStack _ist = ((entity instanceof LivingEntity)
+											? ((LivingEntity) entity).getHeldItemMainhand()
+											: ItemStack.EMPTY);
+									if (_ist.attemptDamageItem((int) 1, new Random(), null)) {
+										_ist.shrink(1);
+										_ist.setDamage(0);
+									}
+								}
+							} else if ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemOffhand() : ItemStack.EMPTY)
+									.getItem() == new ItemStack(LightningWandItem.block, (int) (1)).getItem())) {
+								{
+									ItemStack _ist = ((entity instanceof LivingEntity)
+											? ((LivingEntity) entity).getHeldItemOffhand()
+											: ItemStack.EMPTY);
+									if (_ist.attemptDamageItem((int) 1, new Random(), null)) {
+										_ist.shrink(1);
+										_ist.setDamage(0);
+									}
 								}
 							}
 						}
 					}
 				}
+			}
+			if (entity instanceof PlayerEntity && !entity.world.isRemote()) {
+				((PlayerEntity) entity).sendStatusMessage(new StringTextComponent("activated"), (true));
+			}
+			new Object() {
+				private int ticks = 0;
+				private float waitTicks;
+				private IWorld world;
+				public void start(IWorld world, int waitTicks) {
+					this.waitTicks = waitTicks;
+					MinecraftForge.EVENT_BUS.register(this);
+					this.world = world;
+				}
+
+				@SubscribeEvent
+				public void tick(TickEvent.ServerTickEvent event) {
+					if (event.phase == TickEvent.Phase.END) {
+						this.ticks += 1;
+						if (this.ticks >= this.waitTicks)
+							run();
+					}
+				}
+
+				private void run() {
+					TheChaosModModVariables.MapVariables.get(world).strongswordability = (boolean) (false);
+					TheChaosModModVariables.MapVariables.get(world).syncData(world);
+					MinecraftForge.EVENT_BUS.unregister(this);
+				}
+			}.start(world, (int) 2400);
+		} else {
+			if (entity instanceof PlayerEntity && !entity.world.isRemote()) {
+				((PlayerEntity) entity).sendStatusMessage(new StringTextComponent("cooldown not ended"), (true));
 			}
 		}
 	}
